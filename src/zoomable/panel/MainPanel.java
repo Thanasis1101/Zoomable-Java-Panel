@@ -84,6 +84,8 @@ public class MainPanel extends JPanel implements MouseWheelListener, MouseListen
 
         }
 
+        // All drawings go here
+        
         g2.drawImage(image, 0, 0, this);
 
     }
