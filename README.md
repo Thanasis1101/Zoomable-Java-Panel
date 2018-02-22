@@ -1,5 +1,5 @@
 # Zoomable-Java-Panel
-This repo includes an example of a Java Panel, configured in order to allow the user to zoom in and out and move the content of the panel.
+This repo includes an example of a Java Panel, configured in order to allow the user to zoom in and out according to the position of the mouse and move the content of the panel.
 The libraries used for the graphics are the java libraries AWT and Swing.
 
 In the example code there is a picture with a map loaded in a Panel, and the user can roll the mouse to zoom in and out, or click and drag
